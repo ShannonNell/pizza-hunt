@@ -20,7 +20,7 @@ ___
 
 ## Links
 ### Walkthrough of app:
-* [Pizza Hunt Heroku]()
+* [Pizza Hunt Heroku](https://cryptic-depths-20512.herokuapp.com/)
 
 ___
 
